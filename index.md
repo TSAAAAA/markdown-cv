@@ -34,6 +34,7 @@ Supported arguments:
 - Toefl: 86
 
 ## Skill
+
 - **programming:** C/python/tensorflow/linux/Oprating System/Algorithm
 
 - **tools:** git/vim
@@ -60,7 +61,7 @@ The 18th robot competition of Huazhong University of science and technology, ent
 * Read proxy kernel source code, realize system call, physical memory management, page missing interrupt, process encapsulation of proxy kernel.
 
 ### **Convolutional Neural Networks for Visual Recognition** `2019.5-2019.7`
-Stanford University onlion course: CS231n, completed all the three experiments independently.
+Stanford University online course: CS231n, completed all the three experiments independently.
 - Got familiar with the underlying implementation of the neural network forward and backward propagation algorithm.
 - Learned and experienced tensorflow
 
@@ -78,7 +79,7 @@ Head first about artificial intelligence and data science
 
 [//]:<> ### **计算机学院教务科助管**  `2018.10-now`
 
-### **Embedded and Pervasive Lab of Huazhong University of Science and Technology**
+### **Embedded and Pervasive Lab of Huazhong University of Science and Technology** `2020.12-now`
 <!-- ### Footer
 
 Last updated: MAY 2021 -->

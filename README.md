@@ -25,7 +25,7 @@ Your resume content will be contained in `index.md`, which has an example cv. St
 
 1. Go to *Settings* of you git repo. ![](assets/README-5d16f.png)
 2. In the *Github Pages* section, choose *master branch*, which will automatically build your cv and serve it on your free GitHub Pages website. ![](assets/README-0669e.png)
-3. Head to *yourusername*.github.io/nimo-markdown-cv to see your beautiful CV.
+3. Head to *yourusername*.github.io/markdown-cv to see your beautiful CV.
 
 Any change you want to make to your CV from then on would have to be done on the `master` branch and will be immediately rendered by Github Pages.
 
